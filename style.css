@@ -1,0 +1,195 @@
+form{
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
+
+background: url(../img/фон.jpg);
+}
+
+.box {
+position: absolute;
+width: 785px;
+height: 898px;
+left: 568px;
+top: 86px;
+
+background: rgba(238, 165, 162, 0.52);
+border-radius: 64px;
+}
+
+.box1{
+position: absolute;
+width: 652px;
+height: 79px;
+left: 634px;
+top: 262px;
+border: 0;
+
+background: rgba(255, 255, 255, 0.8);
+border-radius: 20px;
+}
+
+
+.box2{
+position: absolute;
+width: 652px;
+height: 79px;
+left: 634px;
+top: 419px;
+border: 0;
+
+background: rgba(255, 255, 255, 0.8);
+border-radius: 20px;
+}
+
+
+
+.box3{
+position: absolute;
+width: 652px;
+height: 79px;
+left: 634px;
+top: 576px;
+border: 0;
+
+background: rgba(255, 255, 255, 0.8);
+border-radius: 20px;
+}
+
+
+
+.box4{
+position: absolute;
+width: 652px;
+height: 79px;
+left: 634px;
+top: 733px;
+border: 0;
+
+background: rgba(255, 255, 255, 0.8);
+border-radius: 20px;
+}
+
+
+
+.text{
+position: absolute;
+width: 305px;
+height: 59px;
+left: 830px;
+top: 80px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+
+.text1{
+position: absolute;
+width: 70px;
+height: 41px;
+left: 641px;
+top: 180px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+color: #000000;
+	
+}
+.text2{
+position: absolute;
+width: 152px;
+height: 41px;
+left: 641px;
+top: 337px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+
+.text3{
+position: absolute;
+width: 100px;
+height: 41px;
+left: 641px;
+top: 494px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+.text4{
+position: absolute;
+width: 124px;
+height: 41px;
+left: 641px;
+top: 651px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+
+color: #000000;
+}
+
+.box5 {
+position: absolute;
+width: 435px;
+height: 79px;
+left: 743px;
+top: 856px;
+
+background: linear-gradient(180deg, #FBFBFB 0%, #988888 100%);
+border-radius: 20px;
+}
+
+
+.text5{
+position: absolute;
+width: 323px;
+height: 41px;
+left: 830px;
+top: 840px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #000000;
+}
